@@ -1,0 +1,30 @@
+{
+  "courses": [
+    {
+      "id": "course1",
+      "courseNumber": "CS101",
+      "name": "Introduction to Computer Science",
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-15",
+      "price": 1500,
+      "description": "Basic programming concepts and problem solving",
+      "credits": 3,
+      "maxStudents": 30,
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "mfknc1mwqfozfpre4pj",
+      "courseNumber": "CRS-0001",
+      "name": "compilation",
+      "startDate": "2025-09-16",
+      "endDate": "2025-11-30",
+      "price": 6000,
+      "description": "coura",
+      "credits": 5,
+      "maxStudents": 40,
+      "createdAt": "2025-09-15T04:51:01.832Z",
+      "updatedAt": "2025-09-15T04:51:01.832Z"
+    }
+  ]
+}

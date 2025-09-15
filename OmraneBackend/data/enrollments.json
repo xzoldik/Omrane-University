@@ -1,0 +1,12 @@
+{
+  "enrollments": [
+    {
+      "id": "mfkndl8nzj8y2jjccgg",
+      "studentId": "mfknab1yk8lozrv6dv",
+      "courseId": "mfknc1mwqfozfpre4pj",
+      "enrollmentDate": "2025-09-15T04:52:13.895Z",
+      "status": "enrolled",
+      "grade": null
+    }
+  ]
+}

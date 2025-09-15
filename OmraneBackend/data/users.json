@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "admin1",
+      "email": "admin@university.edu",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Admin User",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "mfh1hz3ctqqzrbj058",
+      "email": "hocinehaddalene@gmail.com",
+      "password": "thebigshow1",
+      "role": "student",
+      "name": "Hocine haddalene",
+      "studentId": "12348",
+      "createdAt": "2025-09-12T16:16:28.392Z",
+      "updatedAt": "2025-09-15T04:23:42.322Z"
+    },
+    {
+      "id": "mfkmrlwf0podr7q8rnno",
+      "email": "amine@gmail.com",
+      "password": "thebigshow1",
+      "role": "student",
+      "name": "amine branci",
+      "studentId": "110",
+      "createdAt": "2025-09-15T04:35:08.319Z",
+      "updatedAt": "2025-09-15T04:49:59.200Z"
+    },
+    {
+      "id": "mfkmyston0l64i1rrzp",
+      "email": "ahmed@gmail.com",
+      "password": "ahmed123",
+      "role": "student",
+      "name": "ahmed ahmed",
+      "studentId": "908",
+      "createdAt": "2025-09-15T04:40:43.884Z"
+    },
+    {
+      "id": "mfknab1yk8lozrv6dv",
+      "email": "aek@gmail.com",
+      "password": "thebigshpw1",
+      "role": "student",
+      "name": "aek",
+      "studentId": "190",
+      "createdAt": "2025-09-15T04:49:40.726Z"
+    }
+  ]
+}

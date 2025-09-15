@@ -1,0 +1,14 @@
+{
+  "payments": [
+    {
+      "id": "mfkndwb9x0cn6ko5vi",
+      "studentId": "mfknab1yk8lozrv6dv",
+      "courseId": "mfknc1mwqfozfpre4pj",
+      "amount": 6000,
+      "paymentDate": "2025-09-15T04:52:28.245Z",
+      "paymentMethod": "cash",
+      "status": "completed",
+      "transactionId": "TXN1757911948245"
+    }
+  ]
+}
