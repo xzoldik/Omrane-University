@@ -43,45 +43,7 @@ A RESTful API for a university class registration system built with Node.js and 
 - **Password**: `admin123`
 - **Role**: `admin`
 
-### Student Users
-- **Email**: `john.doe@student.edu`
-- **Password**: `student123`
-- **Role**: `student`
-- **Student ID**: `STU001`
 
-- **Email**: `jane.smith@student.edu`
-- **Password**: `student123`
-- **Role**: `student`
-- **Student ID**: `STU002`
-
-## API Endpoints
-
-### Authentication
-
-#### POST `/api/auth/login`
-Login with email and password.
-
-**Request Body:**
-```json
-{
-  "email": "admin@university.edu",
-  "password": "admin123"
-}
-```
-
-**Response:**
-```json
-{
-  "success": true,
-  "message": "Login successful",
-  "user": {
-    "id": "admin1",
-    "email": "admin@university.edu",
-    "role": "admin",
-    "name": "Admin User"
-  }
-}
-```
 
 #### POST `/api/auth/logout`
 Logout current user.
